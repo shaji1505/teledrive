@@ -17,5 +17,9 @@
     "web",
     "api"
   ],
+    "engines" : { 
+    "npm" : "<9.0.0",
+    "node" : "<=16.0.0"
+  }
   "dependencies": {}
 }
